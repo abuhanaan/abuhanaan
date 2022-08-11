@@ -1,10 +1,7 @@
 ### Hi there 👋 
 
-
-**abuhanaan/abuhanaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I'm Mustopha, I have a background in computer science and I have recently finished a Full Stack Development Nanodegree on Udacity sponsored by ALX. I have interned for a small start-up as a mobile developer and soon found myself specializing in front-end development. I’m looking to accelerate my career in front-end development and as well expand my horizons to projects looking for software support and consultancy.
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning React
 - 💬 Ask me about ...
 <div align="center">
@@ -29,6 +26,8 @@ I'm Mustopha, I have a background in computer science and I have recently finish
 
 <p>
 
-- 📫 How to reach me: ...
+- 📫 How to reach me:
+<a href="https://twitter.com/Adewunmimustee" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mustopha-qomorudeen-1b5232174/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
