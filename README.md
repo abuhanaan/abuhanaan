@@ -26,7 +26,6 @@ I'm Mustopha, I have a background in computer science and I have recently finish
 
 <p>
 
-- 📫 How to reach me:
 <a href="https://twitter.com/Adewunmimustee" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mustopha-qomorudeen-1b5232174/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
