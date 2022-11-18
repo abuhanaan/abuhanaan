@@ -30,6 +30,5 @@ I'm Mustopha, I have a background in computer science and I have recently finish
 <a href="https://www.linkedin.com/in/mustopha-qomorudeen-1b5232174/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
   [![@mustee's Holopin board](https://holopin.me/mustee)](https://holopin.io/@mustee)
-  (https://www.holopin.io/userbadge/clalqmqbq054308lesbo8wwk0)
 
 </div>
