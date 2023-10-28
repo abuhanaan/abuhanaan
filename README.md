@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-I'm Mustopha, I have a background in computer science and I have recently finished a Full Stack Development Nanodegree on Udacity sponsored by ALX. I have interned for a small start-up as a mobile developer and soon found myself specializing in front-end development. I’m looking to accelerate my career in front-end development and as well expand my horizons to projects looking for software support and consultancy.
+I'm Mustopha, I have a background in computer science and I have recently finished a Full Stack Development Nanodegree on Udacity sponsored by ALX. I have interned for a small start-up as a mobile developer and soon found myself specializing in back-end development. I’m looking to accelerate my career in back-end development and as well expand my horizons to projects looking for software support and consultancy.
 
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning microserice architecture leveraging RabbitMQ for Queue Functionality
 - 💬 Ask me about ...
 <div align="center">
 <p>
